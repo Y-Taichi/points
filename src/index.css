@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Shippori Mincho", serif;
+  --font-cursive: "Great Vibes", cursive;
+  --font-sans: "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
+  --color-vermilion: #ea5532;
+}
+
+@utility backface-hidden {
+  backface-visibility: hidden;
+}
+
+@utility backface-visible {
+  backface-visibility: visible;
+}
+
