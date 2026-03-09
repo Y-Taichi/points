@@ -5,7 +5,8 @@ import { Pencil } from 'lucide-react';
 // Initial points data - edit this array to add/remove points
 const INITIAL_POINTS = [
   "02/27",
-  "03/01"
+  "03/01",
+  "03/09"
 ];
 
 const TOTAL_SLOTS = 12;
