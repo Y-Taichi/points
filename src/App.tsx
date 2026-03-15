@@ -6,7 +6,8 @@ import { Pencil } from 'lucide-react';
 const INITIAL_POINTS = [
   "02/27",
   "03/01",
-  "03/09"
+  "03/09",
+  "03/15"
 ];
 
 const TOTAL_SLOTS = 12;
